@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Application Backend System**
 
-- 🌱 I’m currently learning **FastAPI,Python,ML,AWS,OpenCV**
+- 🌱 I’m currently learning **FastAPI,Python,ML,AWS,LLM,ChatGPT**
 
 - 📝 I regularly write articles on [FastAPI](FastAPI)
 
-- 💬 Ask me about **FastAPI,Python**
+- 💬 Ask me about **FastAPI,Python,ChatGPT,LLM**
 
 - 📫 How to reach me **nuttyflash007@gmail.com**
 
