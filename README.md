@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FastAPI,Python,ML,AWS,LLM,ChatGPT**
 
-- 📝 I regularly write articles on [FastAPI](FastAPI)[ChatGPT]
+- 📝 I regularly write articles on [FastAPI](FastAPI)(ChatGPT)
 
 - 💬 Ask me about **FastAPI,Python,ChatGPT,LLM**
 
