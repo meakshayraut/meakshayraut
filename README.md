@@ -72,6 +72,7 @@ I don’t build demos , I build **systems that ship, scale, and deliver measurab
 - 📧 Email: **akshayrautg@gmail.com**
 - 💻 GitHub: https://github.com/meakshayraut
 - 🔗 LinkedIn: *https://www.linkedin.com/in/me-akshay-raut/*
+- ✍️ Medium : *https://medium.com/@akshay_raut*
 
 ---
 
