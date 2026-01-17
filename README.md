@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
-I’m an **AI Engineer with 3+ years of experience** building **production-grade backend and GenAI systems**.
+I’m an **AI Engineer with 3+ years of experience** building **production-grade backend and GenAI systems**.  
 I specialize in **agentic workflows, LLM-powered automation, and RAG architectures** that reduce manual effort in real business processes.
 
-I don’t build demos , I build **systems that ship, scale, and deliver measurable impact**.
+I don’t build demos, I build **systems that ship, scale, and deliver measurable impact**.
 
 ---
 
@@ -23,7 +23,7 @@ I don’t build demos , I build **systems that ship, scale, and deliver measurab
 - 📄 **LLMs over messy real-world data** (PDFs, OCR outputs, documents)
 - 🧠 **RAG systems with guardrails** to reduce hallucinations
 - ⚙️ **Backend systems** using Python & FastAPI
-- ☁️ **Cloud-native AI solutions** (Azure OpenAI, AWS-style deployments)
+- ☁️ **Cloud-native AI solutions** (Azure OpenAI, Azure deployments)
 - 📊 **Enterprise automation** reducing manual effort by 40–80%
 
 ---
@@ -35,7 +35,7 @@ I don’t build demos , I build **systems that ship, scale, and deliver measurab
 - FastAPI
 - LangGraph
 - LangChain
-- Autogen
+- AutoGen
 
 **GenAI / ML**
 - Azure OpenAI / OpenAI
@@ -45,7 +45,7 @@ I don’t build demos , I build **systems that ship, scale, and deliver measurab
 
 **Data & Tools**
 - Azure AI Search
-- Azure CosmosDB
+- Azure Cosmos DB
 - Vector DBs (Pinecone, Qdrant, FAISS)
 - Pandas
 - OCR & document intelligence
@@ -71,8 +71,8 @@ I don’t build demos , I build **systems that ship, scale, and deliver measurab
 
 - 📧 Email: **akshayrautg@gmail.com**
 - 💻 GitHub: https://github.com/meakshayraut
-- 🔗 LinkedIn: *https://www.linkedin.com/in/me-akshay-raut/*
-- ✍️ Medium : *https://medium.com/@akshay_raut*
+- 🔗 LinkedIn: https://www.linkedin.com/in/me-akshay-raut/
+- ✍️ Medium: https://medium.com/@akshay_raut
 
 ---
 
